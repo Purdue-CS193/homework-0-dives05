@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# David Ives' First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### I Like CS193 Because:
+- The education about the CS program
+- Resume help
+- My own website
+
+You can use the [editor on GitHub](https://github.com/Purdue-CS193/homework-0-dives05/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
