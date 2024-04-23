@@ -1,9 +1,7 @@
 # David Ives' First CS193 Homework
 
 ### I Like CS193 Because:
-- The education about the CS program
-- Resume help
-- My own website
+- Hello
 
 You can use the [editor on GitHub](https://github.com/Purdue-CS193/homework-0-dives05/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
